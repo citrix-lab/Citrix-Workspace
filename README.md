@@ -2,7 +2,7 @@
 
 ### Overview
 
-Citrix Workspace App for Windows is a secure and reliable solution for accessing Citrix-hosted applications and desktops. It enables users to connect to Citrix Virtual Apps, Citrix DaaS, and Citrix Virtual Desktops from various remote devices with ease. 
+Citrix Workspace is a secure and reliable solution for accessing Citrix-hosted applications and desktops. It enables users to connect to Citrix Virtual Apps, Citrix DaaS, and Citrix Virtual Desktops from various remote devices with ease. 
 
 Users benefit from a consistent interface across devices and operating systems, supporting access through desktops, Start menus, browsers, or the Citrix Workspace user interface. This application ensures productivity and security in virtual environments, making it ideal for diverse organizational needs.
 
