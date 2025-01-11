@@ -1,6 +1,6 @@
-# Citrix Workspace App for Windows
+## <img width="20px" src="image.png" alt=""></img> Citrix Workspace
 
-## Overview
+### Overview
 
 Citrix Workspace App for Windows is a secure and reliable solution for accessing Citrix-hosted applications and desktops. It enables users to connect to Citrix Virtual Apps, Citrix DaaS, and Citrix Virtual Desktops from various remote devices with ease. 
 
@@ -8,19 +8,19 @@ Users benefit from a consistent interface across devices and operating systems, 
 
 ---
 
-## Table of Contents
+### Table of Contents
 
 - [Overview](#overview)
 - [System Requirements](#system-requirements)
 - [Installation Instructions](#installation)
-- [Key Features](#key-features)
 - [Configuration](#configuration)
 - [Troubleshooting](#troubleshooting)
 - [Changelog](#changelog)
+- [Key Features](#key-features)
 
 ---
 
-## System Requirements
+### System Requirements
 
 To ensure a smooth installation and optimal performance, the following requirements must be met:
 
@@ -31,7 +31,7 @@ To ensure a smooth installation and optimal performance, the following requireme
 
 ---
 
-## Installation
+### Installation
 
 
 **Version:** 24.9.1.207 (2409.1)  
@@ -42,31 +42,7 @@ To ensure a smooth installation and optimal performance, the following requireme
 
 ---
 
-## Key Features
-
-Citrix Workspace App for Windows offers an extensive range of features aimed at enhancing productivity, security, and user experience. Below are some of its notable features:
-
-- **Single Sign-On Support:**
-  Simplifies authentication processes by enabling single sign-on (SSO) using domain credentials or integrated Kerberos authentication. This ensures a seamless and secure login experience for users.
-
-- **Optimized Microsoft Teams Integration:**
-  The app offers enhanced capabilities for Microsoft Teams within virtual environments, including high-quality audio, video, and collaboration tools. These improvements ensure a smooth meeting experience.
-
-- **Enhanced Desktop Launch Experience:**
-  Provides flicker-free transitions and ensures a seamless resizing of virtual desktops, eliminating visual disruptions during use.
-
-- **TLS 1.3 Support:**
-  Strengthens security by enabling support for the latest Transport Layer Security protocol (TLS 1.3).
-
-- **Support for SOCKS5 Proxies:**
-  Enhances compatibility with modern enterprise networks, ensuring reliable and secure data transport.
-
-- **Customizable Desktop Viewer Toolbar:**
-  Empowers users to personalize tools and features available in the desktop viewer toolbar for better usability and efficiency.
-
----
-
-## Configuration
+### Configuration
 
 Setting up Citrix Workspace App for optimal performance and usability involves the following configurations:
 
@@ -89,7 +65,7 @@ For comprehensive configuration details, refer to the [Citrix Workspace Configur
 
 ---
 
-## Troubleshooting
+### Troubleshooting
 
 To ensure smooth operation, Citrix Workspace App provides robust troubleshooting tools and guidance. Below are expanded troubleshooting strategies for common issues:
 
@@ -116,9 +92,9 @@ For more advanced troubleshooting techniques and support articles, visit the [Ci
 
 ---
 
-## Changelog
+### Changelog
 
-### Version 2409 (Latest Release)
+#### Version 2409 (Latest Release)
 
 - **New Features:**
   - Comprehensive support for Windows 11 24H2, offering seamless compatibility with the latest operating system features and updates.
@@ -132,7 +108,7 @@ For more advanced troubleshooting techniques and support articles, visit the [Ci
   - Fixed issues related to session disconnects caused by USB device reconnection delays.
   - Enhanced error reporting mechanisms for improved troubleshooting of virtual desktop launches.
 
-### Previous Versions
+#### Previous Versions
 
 - **Version 2405:**
   - Introduced single sign-on (SSO) support for ARM64-based devices, expanding compatibility to newer hardware architectures.
@@ -147,13 +123,28 @@ For more advanced troubleshooting techniques and support articles, visit the [Ci
   - Upgraded compatibility with the latest Chromium Embedded Framework (CEF) versions, providing improved performance and security.
   - Introduced new administrative controls for app protection and security policies, including process exclusion lists and USB filter management.
   - Expanded functionality for Microsoft Teams VDI plugin installation, simplifying the setup process for virtual collaboration tools.
-
-For a detailed and chronological changelog, refer to the [Release Notes](https://docs.citrix.com/en-us/citrix-workspace-app-for-windows/about-this-release.html).
-
+ 
 ---
 
-## License
+### Key Features
 
-The Citrix Workspace App for Windows is developed and maintained by Cloud Software Group, Inc. It is distributed under the Citrix licensing agreement, which outlines the terms and conditions for usage.
+Citrix Workspace App for Windows offers an extensive range of features aimed at enhancing productivity, security, and user experience. Below are some of its notable features:
 
-For more information about licensing terms and conditions, visit the [Citrix Licensing Page](https://www.citrix.com/support/licensing.html).
+- **Single Sign-On Support:**
+  Simplifies authentication processes by enabling single sign-on (SSO) using domain credentials or integrated Kerberos authentication. This ensures a seamless and secure login experience for users.
+
+- **Optimized Microsoft Teams Integration:**
+  The app offers enhanced capabilities for Microsoft Teams within virtual environments, including high-quality audio, video, and collaboration tools. These improvements ensure a smooth meeting experience.
+
+- **Enhanced Desktop Launch Experience:**
+  Provides flicker-free transitions and ensures a seamless resizing of virtual desktops, eliminating visual disruptions during use.
+
+- **TLS 1.3 Support:**
+  Strengthens security by enabling support for the latest Transport Layer Security protocol (TLS 1.3).
+
+- **Support for SOCKS5 Proxies:**
+  Enhances compatibility with modern enterprise networks, ensuring reliable and secure data transport.
+
+- **Customizable Desktop Viewer Toolbar:**
+  Empowers users to personalize tools and features available in the desktop viewer toolbar for better usability and efficiency.
+
