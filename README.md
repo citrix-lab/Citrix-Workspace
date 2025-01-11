@@ -11,23 +11,12 @@ Users benefit from a consistent interface across devices and operating systems, 
 ### Table of Contents
 
 - [Overview](#overview)
-- [System Requirements](#system-requirements)
 - [Installation Instructions](#installation)
+- [System Requirements](#system-requirements)
 - [Configuration](#configuration)
 - [Troubleshooting](#troubleshooting)
 - [Changelog](#changelog)
 - [Key Features](#key-features)
-
----
-
-### System Requirements
-
-To ensure a smooth installation and optimal performance, the following requirements must be met:
-
-- **Operating System:** Windows 11 24H2 or later versions are supported.
-- **.NET Framework:** A minimum of .NET Desktop Runtime 8.0 or higher is mandatory.
-- **Supported Browsers:** Fully compatible with modern Chromium-based browsers.
-- **Hardware Requirements:** Designed to function seamlessly on PCs, tablets, and thin clients. Adequate CPU, RAM, and storage should meet Citrix’s recommended specifications.
 
 ---
 
@@ -39,6 +28,17 @@ To ensure a smooth installation and optimal performance, the following requireme
 **Status:** Latest Version
 
 [Download Citrix Workspace App 2409.1 for Windows](*)
+
+---
+
+### System Requirements
+
+To ensure a smooth installation and optimal performance, the following requirements must be met:
+
+- **Operating System:** Windows 11 24H2 or later versions are supported.
+- **.NET Framework:** A minimum of .NET Desktop Runtime 8.0 or higher is mandatory.
+- **Supported Browsers:** Fully compatible with modern Chromium-based browsers.
+- **Hardware Requirements:** Designed to function seamlessly on PCs, tablets, and thin clients. Adequate CPU, RAM, and storage should meet Citrix’s recommended specifications.
 
 ---
 
