@@ -1,6 +1,6 @@
-# Citrix Workspace
+## <img width="26px" src="image.png" alt=""></img> Citrix Workspace: Download Virtual Workspace App
 
-**Overview**  
+ 
 Citrix Workspace is a leading solution for businesses and individuals seeking a secure, efficient, and seamless virtual workspace. Designed to enhance productivity and simplify remote work, Citrix Workspace provides users with a centralized platform to access their apps, desktops, and data from any device, anywhere in the world. This repository aims to assist developers, administrators, and IT professionals in managing, customizing, and optimizing Citrix Workspace implementations.
 
 ---
